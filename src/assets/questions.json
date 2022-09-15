@@ -1,0 +1,161 @@
+[
+   {
+      "id": 1,
+      "question": "Rolex is a company that specializes in what type of product?",
+      "answers": [
+        {
+          "text": "Phone",
+          "correct": false
+        },
+        {
+          "text": "Watches",
+          "correct": true
+        },
+        {
+          "text": "Food",
+          "correct": false
+        },
+        {
+          "text": "Cosmetic",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "When did the website `Facebook` launch?",
+      "answers": [
+        {
+          "text": "2004",
+          "correct": true
+        },
+        {
+          "text": "2005",
+          "correct": false
+        },
+        {
+          "text": "2006",
+          "correct": false
+        },
+        {
+          "text": "2007",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question" :"Who played the character of harry potter in movie?",
+      "answers": [
+        {
+          "text" : "Johnny Deep",
+          "correct": false
+        },
+        {
+         "text"  :"Leonardo Di Caprio",
+         "correct": false
+        },
+        {
+         "text": "Denzel Washington",
+         "correct": false
+        },
+        {
+         "text": "Daniel Red Cliff",
+         "correct": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question" :"What does “HTTP” stand for??",
+      "answers": [
+        {
+          "text" : "home transport text prior",
+          "correct": false
+        },
+        {
+         "text"  :"hard ten titans panda",
+         "correct": false
+        },
+        {
+         "text": "http",
+         "correct": false
+        },
+        {
+         "text": "HyperText Transfer Protocol",
+         "correct": true
+        }
+      ]
+    }
+    ,
+    {
+      "id": 5,
+      "question" :"Google Chrome, Safari, Firefox, and Explorer are different types of what??",
+      "answers": [
+        {
+          "text" : "OS",
+          "correct": false
+        },
+        {
+         "text"  :"Programing language",
+         "correct": false
+        },
+        {
+         "text": "Web Browser",
+         "correct": true
+        },
+        {
+         "text": "anime",
+         "correct": true
+        }
+      ]
+    }
+    ,
+    {
+      "id": 6,
+      "question" :"Best anime of all time?",
+      "answers": [
+        {
+          "text" : "Dragon ball",
+          "correct": true
+        },
+        {
+         "text"  :"Dragon ball super",
+         "correct": true
+        },
+        {
+         "text": "Dragon ball Z",
+         "correct": true
+        },
+        {
+         "text": "All of them",
+         "correct": true
+        }
+      ]
+    }
+    ,
+    {
+      "id": 7,
+      "question" :"Who is often called the father of the computer?",
+      "answers": [
+        {
+          "text" : "Charles Babbage",
+          "correct": true
+        },
+        {
+         "text"  :"Charle shen",
+         "correct": false
+        },
+        {
+         "text": "eric lamont robinson",
+         "correct": false
+        },
+        {
+         "text": "steve jobs",
+         "correct": false
+        }
+      ]
+    }
+
+
+  ]
